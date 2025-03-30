@@ -4,6 +4,7 @@
     "minecraft:horse",
     "minecraft:zombie_horse",
     "minecraft:donkey",
-    "minecraft:mule"
+    "minecraft:mule",
+    "mincraft:player"
   ]
 }
