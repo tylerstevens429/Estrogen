@@ -1,1 +1,7 @@
 
+  "replace": false,
+  "values": [
+    "mincraft:totem_of_undying",
+    "mincraft:totem_pouch"
+  ]
+}
